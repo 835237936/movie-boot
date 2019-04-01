@@ -15,7 +15,7 @@ public class MovieApplicationTests {
 	
 	@Test
 	public void test1(){
-		System.out.print("hello");
+		System.out.print("hello world!");
 	}
 
 }
